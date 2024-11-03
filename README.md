@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/cb6c2be1-435f-44d5-a049-0ba618ae2142" width="700px" />
+<img src="https://github.com/user-attachments/assets/cea87a3e-ce68-4679-8e36-aec7db9958a8" width="700px" />
 </div>
