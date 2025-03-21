@@ -1,5 +1,5 @@
 <p>Fiz um Piano Virtual utilizando JS, HTML5, CSS3, o intuito do projeto foi para treinar habilidades que eu aprendi de 2023 a 2024. projeto finalizado em - 18/10/2024</p>
-<p>I made a Virtual Piano using JS, HTML5, CSS3, the propose of this project it was about to retrain my skills that i learned in 2023 to 2024.  finished - 18/10/2024</p>
+<p> I made a Virtual Piano using JS, HTML5, CSS3, the proposal of this project was to practice the skills that I learned in 2023/2024. Finished on 18/10/2024</p>
 
  https://kburial.github.io/Piano-virtual/
 
